@@ -1,0 +1,3 @@
+Q: Write a program to read a string from a file & output to the user?
+
+ Total vowels in above Q: 21

@@ -1,0 +1,17 @@
+Total Students: 3
+
+Student 1:
+Name: Muhammad Furqan Arshad
+Roll Number: 4218
+CGPA: 2.70
+
+Student 2:
+Name: Anas Mustafa 
+Roll Number: 4217
+CGPA: 3.90
+
+Student 3:
+Name: Mudasser Gafure
+Roll Number: 4201
+CGPA: 3.40
+
